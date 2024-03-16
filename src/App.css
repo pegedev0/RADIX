@@ -1,0 +1,25 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Jomolhari;
+}
+
+@keyframes swing {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(2deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.swingAnimation {
+  animation: swing 0.4s ease-in-out;
+}
+
+@keyframes reverseSwing {
+  0% { transform: rotate(0deg); }
+  50% { transform: rotate(-2deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.reverseSwingAnimation {
+  animation: reverseSwing 0.4s ease-in-out;
+}

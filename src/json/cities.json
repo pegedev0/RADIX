@@ -1,0 +1,620 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "Sevilla",
+            "activities": [
+                {
+                    "id": 1,
+                    "name": "Parque Municipal Los Naranjales",
+                    "village": "Guillena",
+                    "description": "El parque de Guillena, ubicado en Sevilla, ocupa 25.077 m2 en la zona deportiva del pueblo, antes una huerta de naranjos y lugar para caballos, inaugurado en 2011 y su diseño ha sufrido modificaciones. Destacan elementos como un reloj solar, baños cerrados al público, una nave con la depuradora del estanque, un estanque de 365 m2 con cascada, y una variedad de especies vegetales, incluyendo árboles como Pinus pinea y Olea europea, setos como Rosmarinus officinalis, enredaderas como Jasminum nudiflorum, y otras plantas como Tamarix gallica. Rodeado por zonas deportivas, un huerto de naranjos y un área con caballos, es un espacio popular para pasear, si bien la zona infantil es pequeña según datos poblacionales de 2014 que muestran una mayor población de entre 30 y 50 años.",
+                    "link": "http://jardineriaypaisajismo.es/2015/10/18/parque-de-los-naranjales-guillena-analisis-descriptico-sfg-2015-2016/",
+                    "images": [
+                        "https://smart-lighting.es/wp-content/uploads/2019/06/0-artesolar-parque-guillena.jpg",
+                        "https://lh3.googleusercontent.com/p/AF1QipPHDBEUnXytcJzoX-tU6JAVdwWdRAVKlch8ZRlZ=s1360-w1360-h1020",
+                        "https://lh3.googleusercontent.com/p/AF1QipOL2Co81l4PMhGCtQMwCS_1XoqtyedtwR2xbQsa=s1360-w1360-h1020"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 2,
+                    "name": "Ruta del agua",
+                    "village": "Guillena",
+                    "description": "La Ruta del Agua es una auténtica aventura natural por las primeras estribaciones de Sierra Morena. En ella descubrirá paisajes que nunca hubiera pensado que podrían situarse tan cerca de la capital sevillana.",
+                    "link": "https://www.andalucia.org/es/guillena-rutas-sendero-ruta-del-agua-de-guillena-pr-a-218",
+                    "images": [
+                        "https://s1.wklcdn.com/image_15/461263/16176844/10136149.jpg",
+                        "https://s1.wklcdn.com/image_15/461263/16176852/10136215.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 3,
+                    "name": "Iglesia de Nuestra Sra de la Granada",
+                    "village": "Guillena",
+                    "description": "Templo gótico-mudéjar construida a comienzos del siglo XV, que presenta planta rectangular y ábside poligonal reforzado por contrafuertes",
+                    "link": "https://www.minube.com/rincon/iglesia-de-nuestra-sra-de-la-granada-guillena-sevilla-a2196399",
+                    "images": [
+                        "https://lh3.googleusercontent.com/p/AF1QipOqCBsZUqxDVSLYTWtEslWN0zpty8FYfeKHS0EN=s1360-w1360-h1020",
+                        "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/309680180_465543242268340_5348035989119752872_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=f5-x0XvFcawAX-3raiV&_nc_ht=scontent-mad1-1.xx&oh=00_AfC7upCePCfd6j1GLIvdPSsrU5tsvx_SQzDnvV-Rpiy-OA&oe=65F9F545"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 4,
+                    "name": "Alcázar de la Puerta de Sevilla",
+                    "village": "Carmona",
+                    "description": "La Puerta de Sevilla es uno de los elementos más representativos del amplio y rico conjunto arquitectónico de Carmona.⁣",
+                    "link": "https://turismo.carmona.org/alcazar-puerta-de-sevilla/",
+                    "images": [
+                        "https://lh3.googleusercontent.com/p/AF1QipOid2vofeg9hMNixkej5BA_XVsaZgNk1vP3eJmp=s1360-w1360-h1020",
+                        "https://lh3.googleusercontent.com/p/AF1QipNYSbyEY261Jbtl9SujBScqJ5oE79qWep16RY_d=s1360-w1360-h1020"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 5,
+                    "name": "Visita a la Necrópolis Romana",
+                    "village": "Carmona",
+                    "description": "El descubrimiento de la Necrópolis de Carmona y el Anfiteatro sucede a finales del siglo XIX, gracias a la iniciativa de Juan Fernández López y del arqueólogo inglés Jorge Bonsor.",
+                    "link": "https://turismo.carmona.org/necropolis/",
+                    "images": [
+                        "https://turismo.carmona.org/wp-content/uploads/2020/06/necro.jpg",
+                        "https://lh3.googleusercontent.com/p/AF1QipMrV62TYpSFSPgr5DIR6fbJ5UlUE0Waqo6C2KRH=s1360-w1360-h1020"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 6,
+                    "name": "Plaza de Abastos",
+                    "village": "Carmona",
+                    "description": "En el solar donde se encuentra el mercado existió un monasterio de Dominicas, bajo la advocación de Santa Catalina. entre finales del siglo XV I y principios del siglo XVII, el 27 de abril de 1837 fue expropiado para su uso público dentro de la desamortización planteada por Mendizábal.",
+                    "link": "https://turismo.carmona.org/plaza-de-abastos-o-mercado/",
+                    "images": [
+                        "https://turismo.carmona.org/wp-content/uploads/2019/03/plazaabastos-2.jpg",
+                        "https://turismo.carmona.org/wp-content/uploads/2020/06/11899818_1165516426798238_1134243517873251481_n-1024x1024.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 7,
+                    "name": "La Colegiata",
+                    "village": "Osuna",
+                    "description": "Está ubicado en lo que fue la antigua sacristía de la colegiata. En el recinto destaca la colección de obras de Ribera realizadas para el duque de Osuna entre 1616 y 1617. En unas vitrinas de la sala se exhiben diversos libros corales con miniaturas renacentistas de espléndida factura y brillante colorido. ",
+                    "link": "https://www.colegiatadeosuna.es/",
+                    "images": [
+                        "https://lh3.googleusercontent.com/p/AF1QipPZBctJZxYFvzAsZ0Uot0SHStrcYcQHFATe5r8W=s1360-w1360-h1020",
+                        "https://lh3.googleusercontent.com/p/AF1QipMUX94EC086v9Q8giuc3cZn0zFawgQA1Q3w5x-A=s1360-w1360-h1020"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 8,
+                    "name": " Museo de Osuna",
+                    "village": "Osuna",
+                    "description": "El Museo Etnológico de Osuna se encuentra situado en el palacio de los hermanos Arjona y Cubas. Un edificio del siglo XVIII que albergó la Cámara Agraria Local durante buena parte del siglo pasado.",
+                    "link": "https://www.osuna.es/es/",
+                    "images": [
+                        "https://www.turismosevilla.org/sites/default/files/styles/grande_800x600_/public/2021-11/557-%283%29-OSUNA.Museo%20Etnol%C3%B3gico%20de%20Osuna.JPG?h=d5417a13&itok=sfILxE0l",
+                        "https://lh3.googleusercontent.com/p/AF1QipOIK9IOzejVnsmZX5oAXpmCEvkJZqh3ChV7cIZn=s1360-w1360-h1020"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 9,
+                    "name": "Iglesia Parroquial de Nuestra Señora de Consolación",
+                    "village": "Cazalla de la Sierra",
+                    "description": "La iglesia de Nuestra Señora de la Consolación es un templo católico de la población de Cazalla de la Sierra en la provincia de Sevilla, (España). Fue declarada Bien de Interés Cultural en 1983.Este edificio histórico de gran interés arquitectónico se encuentra situado en la plaza Mayor, en la zona más elevada de la localidad.",
+                    "link": "https://www.turismosevilla.org/es/que-ver-y-hacer/patrimonio/monumentos/iglesia-parroquial-nuestra-senora-de-consolacion",
+                    "images": [
+                        "https://www.turismosevilla.org/sites/default/files/2021-03/CAZALLA%20DE%20LA%20SIERRA-Iglesia%20Ntra%20Sra%20de%20Consolaci%C3%B3n%20%281%29.JPG"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 10,
+                    "name": "Iglesia parroquial de Santa María de la Encarnación",
+                    "village": "Constantina",
+                    "description": "Esta iglesia es una de las que presentan una torre fachada de las que hay varias en la diócesis de Sevilla. Llama la atención por su originalidad, especialmente por el fuerte contraste entre la blancura de sus paredes y los motivos decorativos en piedra y de ladrillos de la portada y otras partes de la fachada.",
+                    "link": "https://www.turismosevilla.org/es/que-ver-y-hacer/patrimonio/sehenswurdigkeiten/iglesia-parroquial-de-santa-maria-de-la-encarnacion",
+                    "images": [
+                        "https://www.turismosevilla.org/sites/default/files/styles/grande_800x600_/public/2022-06/CONSTANTINA%20-%20Iglesia%20Parroquial%20de%20Santa%20Mar%C3%ADa%20de%20la%20Encarnaci%C3%B3n_0.JPG?h=30c08e7f&itok=fybc0FXc"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 11,
+                    "name": "Sendero de los Castañares",
+                    "village": "Constantina",
+                    "description": "El Sendero los Castañares discurre dentro del Parque Natural Sierra Norte de Sevilla. Aunque no es un recorrido en el que se atraviesen bosques frondosos y pasa cerca de algunas fincas, este sendero circular es una propuesta para adentrarnos en bosques de castañares y conocer la naturaleza que guarda en su interior, que en estas latitudes son difíciles de encontrar. Es también una oportunidad para pasear por una de las capitales de Sierra Morena, la ciudad de Constantina, y ver de cerca su conjunto monumental.",
+                    "link": "https://es.wikiloc.com/rutas-a-pie/sendero-los-castanares-sierra-morena-parque-natural-sierra-norte-de-sevilla-bano-de-bosque-29264747",
+                    "images": [
+                        "https://s1.wklcdn.com/image_102/3087415/29264747/18692488Master.jpg",
+                        "https://lh3.googleusercontent.com/p/AF1QipPpaubRgasD5Rn30fC4lCnCCjl6lol25U_7xMWw=s1360-w1360-h1020"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 12,
+                    "name": "Safari",
+                    "village": "Castillo de las guardas",
+                    "description": "En las 230 hectáreas del Castillo de las Guardas viven en semilibertad más de 1.000 animales de un centenar de especies distintas. Avestruces, bisontes, buitres, cebras, chimpancés, elefantes asiáticos, osos pardos, pavos reales o pelícanos rosados. Todos pueden ser observados por los visitantes del parque.",
+                    "link": "https://www.reserva-andalucia.com/venta-de-entradas/",
+                    "images": [
+                        "https://s1.wklcdn.com/image_102/3087415/29264747/18692488Master.jpg",
+                        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/74/fa/ba/la-reserva-del-castillo.jpg?w=1200&h=1200&s=1",
+                        "https://www.miruta.es/wp-content/uploads/2021/04/reserva-natural-el-castillo-de-las-guardas-7-1080x675.jpg"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 13,
+                    "name": "Restos del Castillo El Torreón",
+                    "village": "Castillo de las guardas",
+                    "description": "Torre de vigilancia creada en tiempos de la conquista cristiana. Data de época bajo medieval en el siglo XIII. Desde este lugar se pueden observar los típicos paisajes de dehesas y monte bajo que rodean al municipio, así como El Guadiamar, su ribera y parte del vasto término de este municipio cuyo origen árabe parece ser la raíz de la construcción de este emplazamiento. Desde el mirador se puede apreciar que esta antigua atalaya se yergue como gran punto estratégico, cruce de caminos y encuentro de culturas.",
+                    "link": "https://www.turismosevilla.org/es/que-ver-y-hacer/patrimonio/monuments/restos-del-castillo-el-torreon",
+                    "images": [
+                        "https://www.turismosevilla.org/sites/default/files/styles/grande_800x600_/public/2021-06/230-%281%29-EL%20CASTILLO%20DE%20LAS%20GUARDAS-Restos%20del%20Castillo%20El%20Torre%C3%B3n.JPG?h=ea95bb15&itok=yeXlhR-w",
+                        "https://www.turismosevilla.org/sites/default/files/styles/grande_800x600_/public/2021-06/230-%282%29-EL%20CASTILLO%20DE%20LAS%20GUARDAS-Restos%20del%20Castillo%20El%20Torre%C3%B3n.JPG?h=8e9f8fe1&itok=3mlcpVpN"
+                    ],
+                    "free": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "La Rioja",
+            "activities": [
+                {
+                    "id": 1,
+                    "name": "Monasterio de Yuso",
+                    "village": "San Millán de la Cogolla",
+                    "description": "Sumérgete en el legado histórico de La Rioja con una visita a San Millán de la Cogolla. Descubre los impresionantes monasterios de Suso y Yuso, declarados Patrimonio de la Humanidad por la UNESCO, y explora las pintorescas calles de este encantador pueblo. Sumérgete en la rica tradición cultural de la región y déjate cautivar por la belleza de este destino único.",
+                    "link": "https://monasteriodesanmillan.com/",
+                    "images": [
+                        "https://reisen-nach-spanien.com/wp-content/uploads/2019/09/San-Millan-de-la-Cogolla-1160032-tm.jpg",
+                        "https://espanaviajar.com/wp-content/uploads/2019/02/PUEBLOS-DE-LA-RIOJA-San-Millan-de-la-Cogolla-900x600.jpg",
+                        "https://img.fotocommunity.com/monasterio-de-san-millan-de-la-cogolla-i-la-rioja-e94230ca-1495-41f7-b408-d1b2c90a83c6.jpg?height=1080"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 2,
+                    "name": "Bodegas Altanza",
+                    "village": "Fuenmayor",
+                    "description": "Sumérgete en la tradición vinícola de La Rioja con una visita a Bodegas Altanza en Fuenmayor. Descubre el proceso de elaboración del vino, explora sus bodegas históricas y disfruta de degustaciones de vinos excepcionales. Una experiencia única para los amantes del buen vino.",
+                    "link": "https://bodegasaltanza.com/",
+                    "images": [
+                        "https://www.elbalcondemateo.es/wp-content/uploads/2022/09/bodegas-altanza-fuenmayor.jpg",
+                        "https://www.nevasport.com/fotos/040220/866272.jpg",
+                        "https://cdn2.civitatis.com/espana/fuenmayor/galeria/bodega-altanza-visita.jpg"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 3,
+                    "name": "Esquia en Valdezcaray",
+                    "village": "Ezcaray",
+                    "description": "¡Vive la emoción del esquí en Valdezcaray! Descubre la diversión en la nieve en las majestuosas montañas de Valdezcaray, La Rioja. Con pistas para todos los niveles, modernos remontes y servicios de calidad, ¡te espera una experiencia inolvidable en la nieve!",
+                    "link": "https://www.valdezcaray.es/",
+                    "images": [
+                        "https://content.gnoss.ws/lrt/imagenes/Documentos/imgsem/32/3247/324704a8-f718-4f83-8fbb-e22565fd134a/72f333b1-8db6-7caf-1a34-e38fff882767.JPG?v=4677",
+                        "https://www.nevasport.com/fotos/040220/866272.jpg",
+                        "https://th.bing.com/th/id/R.710b9077e78377ecc005956419b173bf?rik=PHV8rGfsQFWBmQ&pid=ImgRaw&r=0"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 4,
+                    "name": "Pozas de Arnedillo",
+                    "village": "Arnedillo",
+                    "description": "¡Descubre la serenidad de las Pozas de Arnedillo en La Rioja! Sumérgete en la belleza natural de La Rioja con una visita a las Pozas de Arnedillo. Disfruta de las aguas termales cristalinas, relájate en un entorno único y déjate llevar por la tranquilidad que ofrecen estas piscinas naturales. Una experiencia rejuvenecedora que no querrás perderte.",
+                    "link": "https://lariojaturismo.com/lugar-de-interes/pozas-de-arnedillo/e5102dc0-c811-2336-5d7d-d2ed1e9bc801",
+                    "images": [
+                        "https://vivancoculturadevino.es/blog/wp-content/uploads/2017/06/23_vapor-1024x683.jpg",
+                        "https://i0.wp.com/conlamochila.com/wp-content/uploads/2018/10/PozasArnedilloLaRioja-1_1024_576.jpg?ssl=1",
+                        "https://i.pinimg.com/originals/6b/5a/d3/6b5ad37afc99d3035d69b4e6abbf6412.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 5,
+                    "name": "Yacimiento de Contrebia Leukade",
+                    "village": "Aguilar del Rio Alhama",
+                    "description": "Explora las antiguas ruinas de Contrebia Leucade, un importante yacimiento arqueológico en La Rioja. Sumérgete en el pasado de la región mientras caminas entre los restos de esta ciudad celtibérica, que ofrece una visión única de la vida en la antigüedad. Descubre los secretos que guarda este lugar histórico y déjate inspirar por su legado milenario. Una experiencia imperdible para los aficionados a la historia y la arqueología.",
+                    "link": "https://www.contrebialeucade.com/",
+                    "images": [
+                        "https://www.lariojasinbarreras.org/wp-content/uploads/2017/11/GLR.-Muralla-y-foso.jpg",
+                        "https://2.bp.blogspot.com/-l7NOIeZYa0Q/UUmEKleuQ6I/AAAAAAAAQKM/1FjNExUI1rY/s1600/Contrebia+Leucade+5.jpg"
+                    ],
+                    "free": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Cádiz",
+            "activities": [
+                {
+                    "id": 1,
+                    "name": "Vista al castillo",
+                    "village": "Arcos de la frontera",
+                    "description": "El Castillo de Arcos de la Frontera se encuentra en el Casco Histórico de la localidad -declarado Conjunto Histórico Artístico-, en lo alto de un peñasco y rodeado por 2 peñas. De esta forma era inaccesible para el enemigo en caso de que hubiese una batalla. Su silueta sobresale en el pueblo junto con la Basílica Menor de Santa María de la Asunción. ",
+                    "link": "https://www.inspain.org/es/cadiz/arcos-de-la-frontera/castillo-de-arcos-de-la-frontera/",
+                    "images": [
+                        "https://cloud.mireservaonline.es/fotosServicios/5/4/7/ilklnljpmlnjnhjknniimknkuuqjlnkkmo_3.jpg",
+                        "https://cloud.mireservaonline.es/fotosServicios/1/4/4/omqonlpojijopnkpjlihnhkqqunnomojin_3.jpg",
+                        "https://www.inspain.org/imgwbp/sitios/0/9/9/55ujrw7wh72cjemaj7kegcnqdq_500.webp"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 2,
+                    "name": "Vista bodegas de vino",
+                    "village": "Arcos de la frontera",
+                    "description": "Las fértiles tierras del término municipal de Arcos de la Frontera, nos brinda la oportunidad de producir  vinos propios, tintos y blancos de reconocida fama nacional e internacional, sobre todos los tintos de Arcos que fueron de los primeros en embotellarse en Andalucía y pioneros en la provincia de Cádiz.",
+                    "link": "https://www.turismoarcos.es/nuestros-vinos-y-bodegas/",
+                    "images": [
+                        "https://www.turismoarcos.es/wp-content/uploads/2021/09/albala.jpg",
+                        "https://www.turismoarcos.es/wp-content/uploads/2022/10/Campestral-Bodega-2.jpg",
+                        "https://www.turismoarcos.es/wp-content/uploads/2021/09/guardiwines.jpg"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 3,
+                    "name": "Recorrido casco histórico",
+                    "village": "Arcos de la frontera",
+                    "description": "Arcos está considerado uno de los pueblos más bellos de España",
+                    "link": "https://www.cadizturismo.com/municipios/arcos-de-la-frontera",
+                    "images": [
+                        "https://www.cadizturismo.com/storage/app/media/uploaded-files/p-arcos.jpg",
+                        "https://www.cadizturismo.com/storage/app/media/uploaded-files/arcos1_1.jpg.jpg",
+                        "https://www.cadizturismo.com/storage/app/media/uploaded-files/arcos1.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 4,
+                    "name": "Ruta senderismo Parque nacional",
+                    "village": "Olvera",
+                    "description": "Mejores rutas para recorres las zonas más bonitas de Olvera",
+                    "link": "https://es.wikiloc.com/rutas/senderismo/espana/andalucia/olvera",
+                    "images": [
+                        "https://s1.wklcdn.com/image_6/187427/17039331/10713991.700x525.jpg",
+                        "https://s0.wklcdn.com/image_6/187427/8919824/5269545.700x525.jpg",
+                        "https://s2.wklcdn.com/image_47/1414678/157607185/98921462Master.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 5,
+                    "name": "Visita castillo medieval",
+                    "village": "Olvera",
+                    "description": "El Castillo de Olvera fue construido a finales del siglo XII, formó parte del sistema defensivo del reino nazarí de Granada.",
+                    "link": "https://www.andalucia.org/es/olvera-turismo-cultural-castillo-de-olvera",
+                    "images": [
+                        "https://multimedia.andalucia.org/media/30C5694873514DF5BFE17164EAF1B940/img/DE66D0D5BC2348F2B742EA0BA859B070/162383394026511._Castillo4997746608169597420.jpg?responsive",
+                        "https://multimedia.andalucia.org/media/30C5694873514DF5BFE17164EAF1B940/img/680CC4E13E0D4A818F74BD642B73A451/1623834754921_DSC97447343967705162667060.jpg?responsive",
+                        "https://multimedia.andalucia.org/media/30C5694873514DF5BFE17164EAF1B940/img/C0EAD2E681514B2C81D0905DE4EF4104/16238347567944._Plaza_de_Armas5535306750481436416.jpg?responsive"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 6,
+                    "name": "Ruta de la vía verde de la naturaleza",
+                    "village": "Olvera",
+                    "description": "La Vía Verde de la Sierra transita por el antiguo trazado ferroviario Jerez-Almargen",
+                    "link": "https://www.fundacionviaverdedelasierra.es/la-via-verde-de-la-sierra-cadiz-sevilla/",
+                    "images": [
+                        "https://www.fundacionviaverdedelasierra.es/wp-content/uploads/2017/03/004VIA.jpg",
+                        "https://www.diariodecadiz.es/2022/11/12/cadizfornia/Conoces-Via-Verde-Sierra_1738037031_170265675_667x375.jpg",
+                        "https://viasverdes.com/itinerarios/sierra/img/galeria/Sierra00.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 7,
+                    "name": "Ruta monumental",
+                    "village": "Vejer de la Frontera",
+                    "description": "Declarada Conjunto Histórico y galardonada con el Premio Nacional de Embellecimiento, el legado árabe se plasma en su arquitectura popular",
+                    "link": "https://es.wikiloc.com/rutas-senderismo/la-janda-vejer-de-la-frontera-ruta-monumental-65456008",
+                    "images": [
+                        "https://s0.wklcdn.com/image_47/1426194/65456008/43319718Master.jpg",
+                        "https://s2.wklcdn.com/image_47/1426194/65456008/43319744.400x300.jpg",
+                        "https://s0.wklcdn.com/image_47/1426194/65456008/43319793Master.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 8,
+                    "name": "Iglesia del divino Salvador",
+                    "village": "Vejer de la Frontera",
+                    "description": "La iglesia colegial del Divino Salvador es un templo católico de Sevilla, Andalucía, España situado en la plaza del mismo nombre. ",
+                    "link": "https://www.catedraldesevilla.es/iglesia-de-el-salvador/visita-cultural-iglesia-de-el-salvador/horarios-y-tarifas-iglesia-de-el-salvador/",
+                    "images": [
+                        "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/ba/af.jpg",
+                        "https://multimedia.andalucia.org/media/30C5694873514DF5BFE17164EAF1B940/img/4C243CD2AEF64729B809A94DA4168946/1610458645842Iglesia_de_El_Divino_Salvador_Sevilla._Nave_central5989918691476425954.jpg?responsive",
+                        "https://www.guiadecadiz.com/sites/default/files/cultura/La_Janda/Vejer_de_la_Frontera/IGLESIA_SAN_SALVADOR/Iglesia-del-divino-Salvador-.jpg"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 9,
+                    "name": "Visita del Centro de interpretación",
+                    "village": "Setenil de las Bodegas",
+                    "description": "El CISB muestra la cultura y la historia de un pueblo milenario. El CIMO ofrece una visita por la zona en la que prima el cultivo del olivo. ",
+                    "link": "https://www.grazalemaconencanto.com/informacion/lugares-de-interes/detalles/centro-de-interpretacion-521",
+                    "images": [
+                        "https://www.dipucadiz.es/export/sites/default/provincia/cadizQR/.galerias/Setenil-CentroInterpretacion/CentroInterpretacion1.jpg",
+                        "https://imanesdeviaje.com/wp-content/uploads/2020/02/setenil-de-las-bodegas-que-ver.jpg",
+                        "https://www.andaluciamia.com/wp-content/uploads/2022/04/Setenil-de-las-bodegas-calle-Cuevas-de-la-Sombra-677x1024.jpg.webp"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 10,
+                    "name": "Rutas por casas trogloditas",
+                    "village": "Setenil de las Bodegas",
+                    "description": "Las mejores rutas turísticas por casas trogloditas",
+                    "link": "https://es.wikiloc.com/rutas/senderismo/espana/andalucia/setenil",
+                    "images": [
+                        "https://www.andaluciamia.com/wp-content/uploads/2022/04/Setenil-de-las-bodegas-calle-Cuevas-de-la-Sombra-2-628x1024.jpg.webp",
+                        "https://media.traveler.es/photos/61376c598f298b3a7a5bcc79/master/pass/142576.jpg",
+                        "https://www.andaluciamia.com/wp-content/uploads/2022/04/Setenil-de-las-bodegas-calle-jaboneria-1024x627.jpg.webp"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 11,
+                    "name": "Parque Natural Grazalema",
+                    "village": "Grazalema",
+                    "description": "Situadas en la zona más occidental de los macizos béticos, a medio camino entre las provincias de Cádiz y Málaga, estas sierras han sido talladas al antojo de las lluvias dando lugar a una de las sierras más abruptas de la geografía andaluza",
+                    "link": "https://www.andalucia.org/es/espacios-naturales-sierra-de-grazalema",
+                    "images": [
+                        "https://multimedia.andalucia.org/content_images/main_image_54233.jpeg?_gl=1*ejtly6*_ga*OTMyMTEzODU3LjE3MTA1MDE0MTI.*_ga_J2FR097LYD*MTcxMDUwNDQzMS4yLjEuMTcxMDUwNTczNC40NC4wLjA.",
+                        "https://multimedia.andalucia.org/fotos/image_148519.jpeg",
+                        "https://multimedia.andalucia.org/fotos/image_148525.jpeg?_gl=1*18p6mwq*_ga*OTMyMTEzODU3LjE3MTA1MDE0MTI.*_ga_J2FR097LYD*MTcxMDUwNDQzMS4yLjEuMTcxMDUwNTczNC40NC4wLjA."
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 12,
+                    "name": "Talleres de queso",
+                    "village": "Grazalema",
+                    "description": "¿Qué te proponemos? Que pases un día en familia disfrutando de nuestro taller del queso, visita guiada, audiovisual y degustación de nuestros quesos.",
+                    "link": "https://www.quesoselbosque.com/tienda/producto/actividad-taller-museo/",
+                    "images": [
+                        "https://www.quesoselbosque.com/wp-content/uploads/2022/06/taller-768x768.jpg",
+                        "https://www.quesoselbosque.com/wp-content/uploads/2022/06/taller-1-768x768.jpg",
+                        "https://www.quesoselbosque.com/wp-content/uploads/2022/06/taller-5-768x768.jpg"
+                    ],
+                    "free": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Zamora",
+            "activities": [
+                {
+                    "id": 1,
+                    "name": "Gastronomía y casco antiguo",
+                    "village": "Toro",
+                    "description": "Toro es conocida internacionalmente por la calidad de sus vinos, pero cuesta creer que su precioso casco viejo no cuente con la fama de otras ciudades históricas castellanas. Toro es una visita imprescindible para todo viajero que recorra esta parte de Castilla y León. No sólo por su casco viejo, declarado Conjunto Histórico Artístico, sino también por su excelente gastronomía que hará las delicias de los paladares más exigentes.",
+                    "link": "https://www.mochileandoporelmundo.com/que-ver-y-hacer-en-toro/",
+                    "images": [
+                        "https://www.rutavinotoro.com/wp-content/uploads/2019/01/Toro_pano_231135279-1024x693.jpg",
+                        "https://i0.wp.com/lacosmopolilla.com/wp-content/uploads/2021/06/Centro-historico-de-Toro-Zamora-e1624893773329.jpg?ssl=1"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 2,
+                    "name": "Ruta de vino",
+                    "village": "Toro",
+                    "description": "Situado en la prestigiosa y bellísima zona vitivinícola del Valle de Maipo, a una hora de Santiago en la localidad de Pirque. Ven y disfruta del enoturismo y del espléndido paisaje de Concha y Toro junto a una copa de los mejores vinos de Chile.",
+                    "link": "https://enoturismo.conchaytoro.com",
+                    "images": [
+                        "https://th.bing.com/th/id/OIP.h2RvQJcYeC0OPB-e_ff4mwHaD4?rs=1&pid=ImgDetMain",
+                        "https://th.bing.com/th/id/R.45dd58cb110f1aa11b8bbf87cbb77887?rik=gexoF1Fofi37ig&riu=http%3a%2f%2fwww.turistour.cl%2fimg%2ffotos_centro%2fconchatoro-01-xl.jpg&ehk=tttA%2fY5kLMRD%2foBr7wLBZBK3nrCzpKZlDQ828FjmZys%3d&risl=&pid=ImgRaw&r=0",
+                        "https://th.bing.com/th/id/OIP.YgyvMJMK1EN7_qxbTobW8wHaE8?rs=1&pid=ImgDetMain"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 3,
+                    "name": "Recorrido casco antiguo, iglesia y hermita de Sanabria",
+                    "village": "Puebla de Sanabria",
+                    "description": "Que Puebla de Sanabria siempre aparezca en los listados de los pueblos más bonitos de España no puede sorprender a nadie. Esta pequeña pero coqueta localidad zamorana es una joya para los viajeros y pone a todos de acuerdo",
+                    "link": "https://www.mochileandoporelmundo.com/que-ver-y-hacer-en-puebla-de-sanabria/",
+                    "images": [
+                        "https://eaqxr36k8gu.exactdn.com/wp-content/uploads/2020/07/que-ver-hacer-puebla-sanabria-callejuela.jpg?strip=all&lossy=1&ssl=1",
+                        "https://eaqxr36k8gu.exactdn.com/wp-content/uploads/2020/07/que-ver-hacer-puebla-sanabria-plaza-mayor.jpg?strip=all&lossy=1&ssl=1",
+                        "https://eaqxr36k8gu.exactdn.com/wp-content/uploads/2020/07/que-ver-hacer-puebla-sanabria-Ermita-San-Cayetano.jpg?strip=all&lossy=1&ssl=1"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 4,
+                    "name": "Paseo en barco por el lago de Sanabria",
+                    "village": "Puebla de Sanabria",
+                    "description": "Los mejores paseos en barco para ver los preciosos lagos de Sanabria",
+                    "link": "https://www.europarques.com/es/ticket/sanabria/reserva-dia/",
+                    "images": [
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/007333_-_Provincia_de_Zamora_%288707601613%29_edited.jpg/1200px-007333_-_Provincia_de_Zamora_%288707601613%29_edited.jpg",
+                        "https://animalesviajeros.es/wp-content/uploads/2020/09/lago-de-Sanabria.jpg",
+                        "https://estaticos-cdn.prensaiberica.es/clip/5d549b82-c25c-44c2-8e3d-ef4a64cb6d32_16-9-aspect-ratio_default_0.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 5,
+                    "name": "Mirador de los Arribes del Duero",
+                    "village": "Fermoselle",
+                    "description": "Los miradores de Arribes del Duero son plataformas construidas a lo largo del río Duero, desde donde podemos observar los impresionantes paisajes de la región",
+                    "link": "https://www.losarribesdelduero.com/miradores-de-arribes-del-duero/",
+                    "images": [
+                        "https://viaheroconh.com/media/viajes/nuevo-mirador-sobre-las-arribes-del-duero-salamanca/img_3980.jpg",
+                        "https://www.losarribesdelduero.com/wp-content/uploads/2019/01/mirador-del-fraile.jpg",
+                        "https://www.senditur.com/multimedia/rutas/219/imagenes/Ruta-de-los-Miradores-del-Parque-Natural-de-Arribes-del-Duero.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 6,
+                    "name": "Bodegas subterráneas de Fermoselle",
+                    "village": "Fermoselle",
+                    "description": "Dejaos sorprender por la tradición vitivinícola de los Arribes del Duero con esta visita a las bodegas subterráneas de Fermoselle. Conoceremos la historia y peculiaridades de tres bodegas diferentes.",
+                    "link": "https://bodegasfermoselle.com/",
+                    "images": [
+                        "https://th.bing.com/th/id/OIP.v6MHa5hNMnUKxiSuQOOeeQHaEs?w=282&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+                        "https://www.bing.com/images/search?view=detailV2&ccid=eObpD6jp&id=A0630D1FAC427850F44CA37C36EA7BB35F3FD8DD&thid=OIP.eObpD6jpbkLpo1YQ_YIjsQHaHa&mediaurl=https%3a%2f%2fbodegasfermoselle.com%2fwp-content%2fuploads%2f2021%2f10%2fBodega1_800_800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.78e6e90fa8e96e42e9a35610fd8223b1%3frik%3d3dg%252fX7N76jZ8ow%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=bodegas+subterr%c3%a1neas+de+fermonselle&simid=608029278025119556&FORM=IRPRST&ck=82769E4A70E7A31555393D014CE3EF31&selectedIndex=19&itb=0"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 7,
+                    "name": "Rutas de senderismo desde Formenselle",
+                    "village": "Fermoselle",
+                    "description": "Tanto esta localidad como otras muchas de la zona son un buen punto de partida para hacer rutas caminando. Las hay para todos los gustos, siempre bien señalizadas con letreros, paneles explicativos y la simbología propia de estos senderos. Es una buena forma de conocer el entorno de un modo tranquilo y saludable. Desde Fermoselle se puede llegar tanto a los Arribes del Duero como a los Arribes del Tormes, lo que supone una mayor amplitud de posibilidades",
+                    "link": "https://hazlamochila.com/que-ver-en-fermoselle/",
+                    "images": [
+                        "https://fermoselle.es/wp-content/uploads/2020/12/Camino-del-Penao.jpg",
+                        "https://th.bing.com/th/id/R.ce6c7d1947fde283b00da3419e2214f1?rik=cKU1zLJAhBc%2fLg&riu=http%3a%2f%2fcasasruralesarribesdelduero.com%2fwp-content%2fuploads%2f2016%2f12%2fMirador-del-Fraile.-Arribes-del-Duero.-Salamanca-Spain.jpg&ehk=UxSyG%2fWJygF%2fmAZAeCT0hL8wKTU21AUdVNdQ947HFn4%3d&risl=&pid=ImgRaw&r=0"
+                    ],
+                    "free": true
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Cáceres",
+            "activities": [
+                {
+                    "id": 1,
+                    "name": "Visita Parque de los Pinos",
+                    "village": "Plasencia",
+                    "description": "El parque ornitológico de Los Pinos es más conocido por “Los Patos” ya que es una de las especies que más abunda, cierra por el noroeste el cinturón de parques placentinos y es un lugar de paseo para abuelos y nietos.",
+                    "link": "https://www.inspain.org/es/cadiz/arcos-de-la-frontera/castillo-de-arcos-de-la-frontera/",
+                    "images": [
+                        "https://planvex.es/web/wp-content/uploads/2021/12/Parque_Los_Pinos_Plasencia_Extremadura_1.jpg",
+                        "https://cloud.mireservaonline.es/fotosServicios/1/4/4/omqonlpojijopnkpjlihnhkqqunnomojin_3.jpg",
+                        "https://plasenciaturismo.es/images/2020/02/pinos12.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 2,
+                    "name": "Castillo de Trujillo",
+                    "village": "Trujillo",
+                    "description": "Descubre la imponente fortaleza del Castillo de Trujillo, un tesoro histórico en La Rioja que te transportará a épocas pasadas. Recorre sus antiguas murallas, admira las impresionantes vistas panorámicas y sumérgete en la atmósfera medieval de este emblemático sitio. Una experiencia única para los amantes de la historia y la arquitectura que no querrás perderte.",
+                    "link": "https://www.spain.info/es/destino/trujillo/",
+                    "images": [
+                        "https://2.bp.blogspot.com/-k4ASEeuyTnI/T7OJc3UOQhI/AAAAAAAAUcA/4MHSLEcjTBs/s1600/CASTILLO+DE+TRUJILLO++(120).JPG",
+                        "https://phantom-expansion.unidadeditorial.es/f70688170db7e05b476c48e669dbb30a/resize/640/assets/multimedia/imagenes/2021/05/04/16201156980944.jpg"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 3,
+                    "name": "Real Monasterio de Nuestra Señora de Guadalupe",
+                    "village": "Guadalupe",
+                    "description": "¡Vive la emoción del esquí en Valdezcaray! Descubre la diversión en la nieve en las majestuosas montañas de Valdezcaray, La Rioja. Con pistas para todos los niveles, modernos remontes y servicios de calidad, ¡te espera una experiencia inolvidable en la nieve!",
+                    "link": "https://whc.unesco.org/en/list/665/",
+                    "images": [
+                        "https://content.gnoss.ws/lrt/imagenes/Documentos/imgsem/32/3247/324704a8-f718-4f83-8fbb-e22565fd134a/72f333b1-8db6-7caf-1a34-e38fff882767.JPG?v=4677",
+                        "https://www.nevasport.com/fotos/040220/866272.jpg",
+                        "https://th.bing.com/th/id/R.710b9077e78377ecc005956419b173bf?rik=PHV8rGfsQFWBmQ&pid=ImgRaw&r=0"
+                    ],
+                    "free": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "País Vasco",
+            "activities": [
+                {
+                    "id": 1,
+                    "name": "Playa de La Concha y Monte Urgull",
+                    "village": "San Sebastián",
+                    "description": "Esta playa icónica es una de las más hermosas de Europa, con su forma de concha suave, su arena dorada y sus aguas tranquilas. Es perfecta para tomar el sol, nadar o simplemente pasear por el paseo marítimo y disfrutar de las vistas de la bahía y el horizonte de la ciudad. El Monte Urgull está situado en el extremo oriental de la bahía de La Concha, el Monte Urgull ofrece unas vistas impresionantes de la ciudad y el mar. Puedes subir a pie hasta la cima, donde encontrarás el Castillo de la Mota, un antiguo fuerte militar, y el Monumento al Sagrado Corazón de Jesús.",
+                    "link": "",
+                    "images": [
+                        "https://th.bing.com/th/id/R.99d9119d49f6d68ba4482896217efa11?rik=iFzYmne7rC7BrA&pid=ImgRaw&r=0",
+                        "https://sh-assets.holidu.com/imagecache/blog-photos/14125_Fill_800_800.jpg",
+                        "https://th.bing.com/th/id/OIP.n4zvYZJFe0WvGIlUwsrZewHaFN?rs=1&pid=ImgDetMain"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 1,
+                    "name": "Casco Antiguo y Paseo Nuevo",
+                    "village": "San Sebastián",
+                    "description": "El casco antiguo de San Sebastián es un laberinto de estrechas calles empedradas, plazas animadas y edificios históricos. Aquí encontrarás una gran variedad de bares de pintxos, tiendas boutique y sitios de interés como la Basílica de Santa María del Coro y la Plaza de la Constitución. Este pintoresco paseo marítimo bordea el lado norte de la bahía de La Concha, ofreciendo unas vistas espectaculares del mar y los acantilados. Es un lugar perfecto para dar un paseo relajante, respirar aire fresco y disfrutar de la brisa marina.",
+                    "link": "",
+                    "images": [
+                        "https://i2.wp.com/viajeros30.com/wp-content/uploads/2018/08/catedral-pamplona.jpg?fit=900%2C600&ssl=1",
+                        "https://www.sansebastian.com/wp-content/uploads/2017/06/paseo-nuevo-3.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 2,
+                    "name": "Tour gastronómico guiado con degustación de pintxos y vinos",
+                    "village": "San Sebastián",
+                    "description": "Descubre los sabores de San Sebastián en un recorrido gastronómico a pie y prueba cinco pintxos maridados con vinos regionales. Navega por la pintoresca Parte Vieja y aprende de tu guía la historia que hay detrás de cada giro.",
+                    "link": "https://www.secretfoodtours.com/san-sebastian/food-tours-san-sebastian/?msclkid=c637c3ea725e1af37deba61e1c9cfd7d&utm_source=bing&utm_medium=cpc&utm_campaign=SFT%20-%20San%20Sebastian&utm_term=food%20tour%20san%20sebastian&utm_content=Food%20tour%20San%20Sebastian",
+                    "images": [
+                        "https://cdn.getyourguide.com/img/tour/593e7657e87a0.jpeg/145.jpg",
+                        "https://cdn.getyourguide.com/img/tour/593e76ef4c6c8.jpeg/145.jpg",
+                        "https://cdn.getyourguide.com/img/tour/cc6079a5005538d5b66fea9b154140f79f76d1ca6e9de13fd894464d5bf68b7e.jpg/145.jpg"
+                    ],
+                    "free": false
+                },
+                {
+                    "id": 3,
+                    "name": "Puerto de pescadores y Paseo Marítimo",
+                    "village": "Hondarribia",
+                    "description": "El puerto pesquero de Hondarribia es un lugar pintoresco donde puedes ver a los pescadores trabajar en sus barcos y descargar su captura del día. Pasea por el muelle y disfruta del ambiente marinero, o prueba algunos de los deliciosos mariscos frescos en uno de los restaurantes locales.  Da un paseo por el paseo marítimo de Hondarribia y disfruta de las vistas del mar y la costa. El paseo te llevará a lo largo de la bahía, pasando por hermosas playas, acogedores cafés y restaurantes con terrazas al aire libre.",
+                    "link": "",
+                    "images": [
+                        "https://media-cdn.tripadvisor.com/media/photo-s/06/cc/cc/d5/puerto-de-hondarribia.jpg",
+                        "https://cdn.getyourguide.com/img/tour/593e76ef4c6c8.jpeg/145.jpg",
+                        "https://cdn.getyourguide.com/img/tour/cc6079a5005538d5b66fea9b154140f79f76d1ca6e9de13fd894464d5bf68b7e.jpg/145.jpg"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 4,
+                    "name": "Casco Antiguo y Castillo de Carlos V",
+                    "village": "Hondarribia",
+                    "description": " El corazón de Hondarribia es su casco antiguo, con calles empedradas, casas pintorescas y plazas encantadoras. Explora sus estrechas callejuelas llenas de historia y descubre sus rincones más pintorescos, como la Plaza de Armas y la Plaza de Gipuzkoa. El Castillo de Carlos V es una imponente fortaleza del siglo X se encuentra en la cima de una colina en el centro del casco antiguo.",
+                    "link": "",
+                    "images": [
+                        "https://grupoabu.es/wp-content/uploads/2023/05/Casco-historico-Sevilla.jpg",
+                        "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/84000/84386-Parc-De-La-Mar.jpg?impolicy=fcrop&w=1040&h=580&q=mediumHigh"
+                    ],
+                    "free": true
+                },
+                {
+                    "id": 5,
+                    "name": "Actividad Acuática - Zarautz, Getaria y Zumaia",
+                    "village": "San Sebastián",
+                    "description": "Descubre diferentes rincones de la orgullosa y encantadora costa occidental de Gipuzkoa",
+                    "link": "https://buendiatours.com/es/san-sebastian/excursion-zarautz-getaria-zumaia-san-sebastian",
+                    "images": [
+                        "https://assets.buendiatours.com/s3fs-public/2023-05/exxcursi%C3%B3n-Zarautz-Getaria-zumaia-desde-san-sebastian_buendia.jpg?VersionId=vQ0Ztgiq24p8iWTXRnSmNN72M8FSGJJZ",
+                        "https://assets.buendiatours.com/s3fs-public/2023-05/casas-excursi%C3%B3n-Zarautz-Getaria-zumaia-desde-san-sebastian_buendia.jpg?VersionId=A8xAFO.aFcguKfiAI6ktfD7QML7348tm",
+                        "https://assets.buendiatours.com/s3fs-public/2023-05/ermita-excursi%C3%B3n-Zarautz-Getaria-zumaia-desde-san-sebastian_buendia.jpg?VersionId=Oy2bm5tJRLNVAIlH8E51hLCpaN5vrDTv",
+                        "https://assets.buendiatours.com/s3fs-public/2023-05/estatua-excursi%C3%B3n-Zarautz-Getaria-zumaia-desde-san-sebastian_buendia.jpg?VersionId=v4LT2UdlHpaYh7NRgM9CnAyBCsWpSvWo",
+                        "https://assets.buendiatours.com/s3fs-public/2023-05/playa-excursi%C3%B3n-Zarautz-Getaria-zumaia-desde-san-sebastian_buendia.jpg?VersionId=sthqWf9oGb5a1lizqgGwF84ICmhI9wGf"
+                    ],
+                    "free": false
+                }
+            ]
+        }
+    ]
+}
